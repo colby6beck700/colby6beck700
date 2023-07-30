@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @colby6beck700
+- 👀 I’m interested in system-level programming. I’m currently learning C++.
+- 🌱 Computer Science undergrad with a focus on C++. Intrigued by system-level programming. Ready for challenges.
